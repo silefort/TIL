@@ -7,6 +7,6 @@
 
 
 ## VIM
-Close all splits but current[vim/close-all-splits-but-current.md]
+[Close all splits but the current one] (vim/close-all-splits-but-current.md)
 
 

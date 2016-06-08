@@ -5,6 +5,10 @@
 
 ## Unix
 
+### Centos
+
+[Shut a CPU core] (centos/shut-cpu-core.md)
+
 
 ## VIM
 [Close all splits but the current one] (vim/close-all-splits-but-current.md)

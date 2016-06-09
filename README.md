@@ -5,6 +5,8 @@
 
 ## Unix
 
+[ Pretty json from the commande line ] (unix/pretty-json.md)
+
 ### Centos
 
 [Shut a CPU core] (centos/shut-cpu-core.md)

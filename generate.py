@@ -36,7 +36,7 @@ def main():
                     if len(til) > 0 and til[0] != '.':
                         f.write('[ ' + til.replace('-',' ').replace('.md','') + ' ] (' + title + '/' + til + ')\n')
         
-            f.write('\n')
+                f.write('\n')
             
 if __name__ == '__main__':
     main()

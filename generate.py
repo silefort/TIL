@@ -15,6 +15,8 @@ def main():
         header +=   '\n'
         header +=   '* Idea stolen from: https://github.com/jbranchaud/til'
         header +=   '\n'
+        header +=   'To generate this readme:\n'
+        header +=   '\t python -B generate.py\n'
         header +=   '\n'
         
         f.write(header)

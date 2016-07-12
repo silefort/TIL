@@ -16,7 +16,7 @@ def main():
         header +=   '* Idea stolen from: https://github.com/jbranchaud/til\n'
         header +=   '\n'
         header +=   'To generate this readme:\n'
-        header +=   '\t python -B generate.py\n'
+        header +=   '    python -B generate.py\n'
         header +=   '\n'
         
         f.write(header)

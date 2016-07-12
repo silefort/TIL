@@ -20,15 +20,24 @@
 
 
 
-# centos
 
-[ shut cpu core.md ] (centos/shut-cpu-core.md)
 
-# unix
 
-[ pretty json.md ] (unix/pretty-json.md)
 
-# vim
 
-[ close all splits but current.md ] (vim/close-all-splits-but-current.md)
+
+
+
+
+# Centos
+
+[ Shut cpu core ] (Centos/Shut-cpu-core.md)
+
+# Unix
+
+[ Pretty json ] (Unix/Pretty-json.md)
+
+# Vim
+
+[ Close all splits but current ] (Vim/Close-all-splits-but-current.md)
 

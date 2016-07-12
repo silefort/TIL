@@ -34,7 +34,7 @@ def main():
                 # For each file
                 for til in t:
                     if len(til) > 0 and til[0] != '.':
-                        f.write('[ ' + til.replace('-',' ') + ' ] (' + title + '/' + til + ')\n')
+                        f.write('[ ' + til.replace('-',' ').replace('.md','') + ' ] (' + title + '/' + til + ')\n')
         
             f.write('\n')
             

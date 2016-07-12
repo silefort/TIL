@@ -13,7 +13,7 @@ def main():
         # Header file
         header =    '# TODAY I LEARNED\n'
         header +=   '\n'
-        header +=   '* Idea stolen from: https://github.com/jbranchaud/til'
+        header +=   '* Idea stolen from: https://github.com/jbranchaud/til\n'
         header +=   '\n'
         header +=   'To generate this readme:\n'
         header +=   '\t python -B generate.py\n'

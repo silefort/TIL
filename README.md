@@ -8,6 +8,6 @@ To generate this readme:
 
 # Unix
 
-[ Pretty json from the command line ] (Unix/Pretty-json-from-the-command-line.md)
-[ Show current month calendar ] (Unix/Show-current-month-calendar.md)
+* [ Pretty json from the command line ] (Unix/Pretty-json-from-the-command-line.md)
+* [ Show current month calendar ] (Unix/Show-current-month-calendar.md)
 

@@ -10,4 +10,5 @@ To generate this readme:
 
 * [ Pretty json from the command line ] (Unix/Pretty-json-from-the-command-line.md)
 * [ Show current month calendar ] (Unix/Show-current-month-calendar.md)
+* [ Show network routes ] (Unix/Show-network-routes.md)
 

@@ -8,6 +8,7 @@ To generate this readme:
 
 # Unix
 
+* [ Bash read a file line by line ] (Unix/Bash-read-a-file-line-by-line.md)
 * [ Pretty json from the command line ] (Unix/Pretty-json-from-the-command-line.md)
 * [ Show current month calendar ] (Unix/Show-current-month-calendar.md)
 * [ Show network routes ] (Unix/Show-network-routes.md)

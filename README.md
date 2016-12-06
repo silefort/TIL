@@ -12,3 +12,7 @@ To generate this readme:
 * [ Show current month calendar ] (Unix/Show-current-month-calendar.md)
 * [ Show network routes ] (Unix/Show-network-routes.md)
 
+# Vim
+
+* [ display a smile in vim ] (Vim/display-a-smile-in-vim.md)
+

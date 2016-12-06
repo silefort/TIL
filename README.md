@@ -14,5 +14,6 @@ To generate this readme:
 
 # Vim
 
-* [ display a smile in vim ] (Vim/display-a-smile-in-vim.md)
+* [ Display a smile in vim ] (Vim/Display-a-smile-in-vim.md)
+* [ List Your Leader Vim Mappings ] (Vim/List-Your-Leader-Vim-Mappings.md)
 

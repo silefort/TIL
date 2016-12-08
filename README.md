@@ -16,5 +16,6 @@ To generate this readme:
 # Vim
 
 * [ Display a smile in vim ] (Vim/Display-a-smile-in-vim.md)
+* [ Display all occurences of foo ] (Vim/Display-all-occurences-of-foo.md)
 * [ List Your Leader Vim Mappings ] (Vim/List-Your-Leader-Vim-Mappings.md)
 

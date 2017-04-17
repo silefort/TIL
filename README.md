@@ -8,16 +8,16 @@ To generate this readme:
 
 # Unix
 
-* [ Bash read a file line by line ] (Unix/Bash-read-a-file-line-by-line.md)
-* [ Curl Show Only Headers ] (Unix/Curl-Show-Only-Headers.md)
-* [ Pretty json from the command line ] (Unix/Pretty-json-from-the-command-line.md)
-* [ Pretty xml from the command line ] (Unix/Pretty-xml-from-the-command-line.md)
-* [ Show current month calendar ] (Unix/Show-current-month-calendar.md)
-* [ Show network routes ] (Unix/Show-network-routes.md)
+* [ Bash read a file line by line ](Unix/Bash-read-a-file-line-by-line.md)
+* [ Curl Show Only Headers ](Unix/Curl-Show-Only-Headers.md)
+* [ Pretty json from the command line ](Unix/Pretty-json-from-the-command-line.md)
+* [ Pretty xml from the command line ](Unix/Pretty-xml-from-the-command-line.md)
+* [ Show current month calendar ](Unix/Show-current-month-calendar.md)
+* [ Show network routes ](Unix/Show-network-routes.md)
 
 # Vim
 
-* [ Display a smile in vim ] (Vim/Display-a-smile-in-vim.md)
-* [ Display all occurences of foo ] (Vim/Display-all-occurences-of-foo.md)
-* [ List Your Leader Vim Mappings ] (Vim/List-Your-Leader-Vim-Mappings.md)
+* [ Display a smile in vim ](Vim/Display-a-smile-in-vim.md)
+* [ Display all occurences of foo ](Vim/Display-all-occurences-of-foo.md)
+* [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 

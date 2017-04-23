@@ -19,5 +19,6 @@ To generate this readme:
 # Vim
 
 * [ Display a smile in vim ](Vim/Display-a-smile-in-vim.md)
+* [ Insert mode filename completion ](Vim/Insert-mode-filename-completion.md)
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 

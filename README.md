@@ -10,6 +10,7 @@ To generate this readme:
 
 * [ Bash read a file line by line ](Unix/Bash-read-a-file-line-by-line.md)
 * [ Curl Show Only Headers ](Unix/Curl-Show-Only-Headers.md)
+* [ Execute command as user ](Unix/Execute-command-as-user.md)
 * [ Pretty json from the command line ](Unix/Pretty-json-from-the-command-line.md)
 * [ Pretty xml from the command line ](Unix/Pretty-xml-from-the-command-line.md)
 * [ Show current month calendar ](Unix/Show-current-month-calendar.md)

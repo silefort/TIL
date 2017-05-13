@@ -6,6 +6,10 @@ To generate this readme:
 
     python -B generate.py
 
+# Social
+
+* [ Get Lastfm last week top artists ](Social/Get-Lastfm-last-week-top-artists.md)
+
 # Unix
 
 * [ Bash read a file line by line ](Unix/Bash-read-a-file-line-by-line.md)

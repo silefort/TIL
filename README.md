@@ -13,6 +13,7 @@ To generate this readme:
 # Unix
 
 * [ Bash read a file line by line ](Unix/Bash-read-a-file-line-by-line.md)
+* [ Bash vi mode cheatsheet ](Unix/Bash-vi-mode-cheatsheet.md)
 * [ Curl Show Only Headers ](Unix/Curl-Show-Only-Headers.md)
 * [ Execute command as user ](Unix/Execute-command-as-user.md)
 * [ Pretty json from the command line ](Unix/Pretty-json-from-the-command-line.md)

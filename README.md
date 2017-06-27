@@ -26,5 +26,6 @@ To generate this readme:
 
 * [ Display a smile in vim ](Vim/Display-a-smile-in-vim.md)
 * [ Insert mode filename completion ](Vim/Insert-mode-filename-completion.md)
+* [ Launch a simple http server ](Vim/Launch-a-simple-http-server.md)
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 

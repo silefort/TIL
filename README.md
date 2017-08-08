@@ -6,6 +6,10 @@ To generate this readme:
 
     python -B generate.py
 
+# MacOS
+
+* [ Add your ssh key and passphrase to macOS Keychain ](MacOS/Add-your-ssh-key-and-passphrase-to-macOS-Keychain.md)
+
 # Social
 
 * [ Get Lastfm last week top artists ](Social/Get-Lastfm-last-week-top-artists.md)

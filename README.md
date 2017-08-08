@@ -25,6 +25,7 @@ To generate this readme:
 * [ Pretty xml from the command line ](Unix/Pretty-xml-from-the-command-line.md)
 * [ Show current month calendar ](Unix/Show-current-month-calendar.md)
 * [ Show network routes ](Unix/Show-network-routes.md)
+* [ Ssh disable Host Key Checking ](Unix/Ssh-disable-Host-Key-Checking.md)
 * [ Undo some command line editing ](Unix/Undo-some-command-line-editing.md)
 
 # Vim

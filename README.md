@@ -31,6 +31,7 @@ To generate this readme:
 # Vim
 
 * [ Display a smile in vim ](Vim/Display-a-smile-in-vim.md)
+* [ Format JSON with jq ](Vim/Format-JSON-with-jq.md)
 * [ Insert mode filename completion ](Vim/Insert-mode-filename-completion.md)
 * [ Launch a simple http server ](Vim/Launch-a-simple-http-server.md)
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)

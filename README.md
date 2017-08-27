@@ -9,6 +9,7 @@ To generate this readme:
 # MacOS
 
 * [ Add your ssh key and passphrase to macOS Keychain ](MacOS/Add-your-ssh-key-and-passphrase-to-macOS-Keychain.md)
+* [ Keep Homebrew clean ](MacOS/Keep-Homebrew-clean.md)
 
 # Social
 

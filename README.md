@@ -6,6 +6,10 @@ To generate this readme:
 
     python -B generate.py
 
+# Git
+
+* [ Tree view of commits ](Git/Tree-view-of-commits.md)
+
 # MacOS
 
 * [ Add your ssh key and passphrase to macOS Keychain ](MacOS/Add-your-ssh-key-and-passphrase-to-macOS-Keychain.md)
@@ -27,6 +31,7 @@ To generate this readme:
 * [ Pretty xml from the command line ](Unix/Pretty-xml-from-the-command-line.md)
 * [ Show current month calendar ](Unix/Show-current-month-calendar.md)
 * [ Show network routes ](Unix/Show-network-routes.md)
+* [ Specify the key to use in ssh ](Unix/Specify-the-key-to-use-in-ssh.md)
 * [ Ssh disable Host Key Checking ](Unix/Ssh-disable-Host-Key-Checking.md)
 * [ Undo some command line editing ](Unix/Undo-some-command-line-editing.md)
 
@@ -37,4 +42,7 @@ To generate this readme:
 * [ Insert mode filename completion ](Vim/Insert-mode-filename-completion.md)
 * [ Launch a simple http server ](Vim/Launch-a-simple-http-server.md)
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
+* [ Read only_vim ](Vim/Read-only_vim.md)
+* [ Run Vim Command from Command Line ](Vim/Run-Vim-Command-from-Command-Line.md)
+* [ Toggle Line Numbers ](Vim/Toggle-Line-Numbers.md)
 

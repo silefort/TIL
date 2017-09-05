@@ -15,6 +15,10 @@ To generate this readme:
 * [ Add your ssh key and passphrase to macOS Keychain ](MacOS/Add-your-ssh-key-and-passphrase-to-macOS-Keychain.md)
 * [ Keep Homebrew clean ](MacOS/Keep-Homebrew-clean.md)
 
+# Others
+
+* [ Download humble bundle books in parallel ](Others/Download-humble-bundle-books-in-parallel.md)
+
 # Social
 
 * [ Get Lastfm last week top artists ](Social/Get-Lastfm-last-week-top-artists.md)

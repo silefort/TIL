@@ -62,3 +62,5 @@ To generate this readme:
 * [ Clone a repo locally from git ](Git/Clone-a-repo-locally-from-git.md)
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
 
+
+35 Tips available

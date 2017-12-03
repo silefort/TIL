@@ -7,6 +7,9 @@ import os
 import re
 
 def main():
+
+    count = 0
+
     # Open output file
     with open('README.md', 'w') as f:
         
@@ -36,9 +39,12 @@ def main():
                 # For each file
                 for til in t:
                     if len(til) > 0 and til[0] != '.':
+                        count +=1
                         f.write('* [ ' + til.replace('-',' ').replace('.md','') + ' ](' + title + '/' + til + ')\n')
         
                 f.write('\n')
+
+        f.write('\n' + str(count) + ' Tips available\n')
             
 if __name__ == '__main__':
     main()

@@ -2,11 +2,11 @@
 
 ## I/O streams numbers
 
-Handle | Name   | Description
--------|--------|
-0      | stdin  | Standard input
-1      | stdout | Standard output
-2      | stderr | Standard error
+    Handle | Name   | Description
+    -------|--------|
+    0      | stdin  | Standard input
+    1      | stdout | Standard output
+    2      | stderr | Standard error
 
 ## Redirect stderr to stdout
 

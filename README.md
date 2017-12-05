@@ -22,6 +22,7 @@ To generate this readme:
 
 * [ Keep Homebrew clean ](MacOS/Keep-Homebrew-clean.md)
 * [ Add your ssh key and passphrase to macOS Keychain ](MacOS/Add-your-ssh-key-and-passphrase-to-macOS-Keychain.md)
+* [ macOS boot option cheatsheet ](MacOS/macOS-boot-option-cheatsheet.md)
 
 # Bash
 
@@ -52,6 +53,7 @@ To generate this readme:
 
 # The-Internets
 
+* [ Focus the url bar ](The-Internets/Focus-the-url-bar.md)
 * [ Html 2 markdown ](The-Internets/Html-2-markdown.md)
 * [ Download humble bundle books in parallel ](The-Internets/Download-humble-bundle-books-in-parallel.md)
 
@@ -63,4 +65,4 @@ To generate this readme:
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
 
 
-35 Tips available
+37 Tips available

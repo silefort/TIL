@@ -15,6 +15,7 @@ To generate this readme:
 * [ Toggle Line Numbers ](Vim/Toggle-Line-Numbers.md)
 * [ Generate a list from grep ](Vim/Generate-a-list-from-grep.md)
 * [ Display a smile in vim ](Vim/Display-a-smile-in-vim.md)
+* [ Append Output Of An External Command ](Vim/Append-Output-Of-An-External-Command.md)
 * [ Launch a simple http server ](Vim/Launch-a-simple-http-server.md)
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
@@ -65,4 +66,4 @@ To generate this readme:
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
 
 
-37 Tips available
+38 Tips available

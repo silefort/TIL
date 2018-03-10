@@ -35,6 +35,7 @@ To generate this readme:
 * [ Redirect stderr to stdout ](Bash/Redirect-stderr-to-stdout.md)
 * [ Pretty xml from the command line ](Bash/Pretty-xml-from-the-command-line.md)
 * [ Bash delete on current line ](Bash/Bash-delete-on-current-line.md)
+* [ Difference between output of two commands ](Bash/Difference-between-output-of-two-commands.md)
 * [ Curl Show Only Headers ](Bash/Curl-Show-Only-Headers.md)
 * [ Pretty json from the command line ](Bash/Pretty-json-from-the-command-line.md)
 * [ Bash read a file line by line ](Bash/Bash-read-a-file-line-by-line.md)
@@ -66,4 +67,4 @@ To generate this readme:
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
 
 
-38 Tips available
+39 Tips available

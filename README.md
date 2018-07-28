@@ -30,6 +30,7 @@ To generate this readme:
 
 * [ Edit previous command with fc ](Bash/Edit-previous-command-with-fc.md)
 * [ Undo some command line editing ](Bash/Undo-some-command-line-editing.md)
+* [ Scp cheatsheet ](Bash/Scp-cheatsheet.md)
 * [ Bash for loops ](Bash/Bash-for-loops.md)
 * [ Bash vi mode cheatsheet ](Bash/Bash-vi-mode-cheatsheet.md)
 * [ Edit command from history before exec ](Bash/Edit-command-from-history-before-exec.md)
@@ -68,4 +69,4 @@ To generate this readme:
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
 
 
-40 Tips available
+41 Tips available

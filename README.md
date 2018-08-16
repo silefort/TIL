@@ -42,6 +42,10 @@ To generate this readme:
 * [ Pretty json from the command line ](Bash/Pretty-json-from-the-command-line.md)
 * [ Bash read a file line by line ](Bash/Bash-read-a-file-line-by-line.md)
 
+# Ansible
+
+* [ Dump all variables ](Ansible/Dump-all-variables.md)
+
 # Social
 
 * [ Get Lastfm last week top artists ](Social/Get-Lastfm-last-week-top-artists.md)
@@ -69,4 +73,4 @@ To generate this readme:
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
 
 
-41 Tips available
+42 Tips available

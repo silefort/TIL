@@ -41,6 +41,7 @@ To generate this readme:
 * [ Curl Show Only Headers ](Bash/Curl-Show-Only-Headers.md)
 * [ Pretty json from the command line ](Bash/Pretty-json-from-the-command-line.md)
 * [ Bash read a file line by line ](Bash/Bash-read-a-file-line-by-line.md)
+* [ History cheat sheet ](Bash/History-cheat-sheet.md)
 
 # Social
 
@@ -69,4 +70,4 @@ To generate this readme:
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
 
 
-41 Tips available
+42 Tips available

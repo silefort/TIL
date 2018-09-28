@@ -26,7 +26,7 @@ def main():
     
         # For each directory/section
 
-        l =  os.walk(os.getcwd())
+        l =  sorted(os.walk(os.getcwd()))
         sections = [x[0] for x in l]
         for section in sections:
             title = section.replace(os.getcwd(),'').replace('/','')

@@ -6,25 +6,9 @@ To generate this readme:
 
     python -B generate.py
 
-# Vim
+# Ansible
 
-* [ Format JSON with jq ](Vim/Format-JSON-with-jq.md)
-* [ Run Vim Command from Command Line ](Vim/Run-Vim-Command-from-Command-Line.md)
-* [ Read only vim ](Vim/Read-only-vim.md)
-* [ Insert mode filename completion ](Vim/Insert-mode-filename-completion.md)
-* [ Toggle Line Numbers ](Vim/Toggle-Line-Numbers.md)
-* [ Generate a list from grep ](Vim/Generate-a-list-from-grep.md)
-* [ Display a smile in vim ](Vim/Display-a-smile-in-vim.md)
-* [ Append Output Of An External Command ](Vim/Append-Output-Of-An-External-Command.md)
-* [ Launch a simple http server ](Vim/Launch-a-simple-http-server.md)
-* [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
-
-# MacOS
-
-* [ Keep Homebrew clean ](MacOS/Keep-Homebrew-clean.md)
-* [ Add your ssh key and passphrase to macOS Keychain ](MacOS/Add-your-ssh-key-and-passphrase-to-macOS-Keychain.md)
-* [ macOS boot option cheatsheet ](MacOS/macOS-boot-option-cheatsheet.md)
-* [ Install telnet ftp ](MacOS/Install-telnet-ftp.md)
+* [ Dump all variables ](Ansible/Dump-all-variables.md)
 
 # Bash
 
@@ -43,9 +27,29 @@ To generate this readme:
 * [ Bash read a file line by line ](Bash/Bash-read-a-file-line-by-line.md)
 * [ History cheat sheet ](Bash/History-cheat-sheet.md)
 
+# Git
+
+* [ Tree view of commits ](Git/Tree-view-of-commits.md)
+* [ List commits that change a file ](Git/List-commits-that-change-a-file.md)
+* [ Clone a repo locally from git ](Git/Clone-a-repo-locally-from-git.md)
+* [ Generate random commit message ](Git/Generate-random-commit-message.md)
+
+# MacOS
+
+* [ Keep Homebrew clean ](MacOS/Keep-Homebrew-clean.md)
+* [ Add your ssh key and passphrase to macOS Keychain ](MacOS/Add-your-ssh-key-and-passphrase-to-macOS-Keychain.md)
+* [ macOS boot option cheatsheet ](MacOS/macOS-boot-option-cheatsheet.md)
+* [ Install telnet ftp ](MacOS/Install-telnet-ftp.md)
+
 # Social
 
 * [ Get Lastfm last week top artists ](Social/Get-Lastfm-last-week-top-artists.md)
+
+# The-Internets
+
+* [ Focus the url bar ](The-Internets/Focus-the-url-bar.md)
+* [ Html 2 markdown ](The-Internets/Html-2-markdown.md)
+* [ Download humble bundle books in parallel ](The-Internets/Download-humble-bundle-books-in-parallel.md)
 
 # Unix
 
@@ -56,18 +60,18 @@ To generate this readme:
 * [ Show current month calendar ](Unix/Show-current-month-calendar.md)
 * [ Ssh disable Host Key Checking ](Unix/Ssh-disable-Host-Key-Checking.md)
 
-# The-Internets
+# Vim
 
-* [ Focus the url bar ](The-Internets/Focus-the-url-bar.md)
-* [ Html 2 markdown ](The-Internets/Html-2-markdown.md)
-* [ Download humble bundle books in parallel ](The-Internets/Download-humble-bundle-books-in-parallel.md)
-
-# Git
-
-* [ Tree view of commits ](Git/Tree-view-of-commits.md)
-* [ List commits that change a file ](Git/List-commits-that-change-a-file.md)
-* [ Clone a repo locally from git ](Git/Clone-a-repo-locally-from-git.md)
-* [ Generate random commit message ](Git/Generate-random-commit-message.md)
+* [ Format JSON with jq ](Vim/Format-JSON-with-jq.md)
+* [ Run Vim Command from Command Line ](Vim/Run-Vim-Command-from-Command-Line.md)
+* [ Read only vim ](Vim/Read-only-vim.md)
+* [ Insert mode filename completion ](Vim/Insert-mode-filename-completion.md)
+* [ Toggle Line Numbers ](Vim/Toggle-Line-Numbers.md)
+* [ Generate a list from grep ](Vim/Generate-a-list-from-grep.md)
+* [ Display a smile in vim ](Vim/Display-a-smile-in-vim.md)
+* [ Append Output Of An External Command ](Vim/Append-Output-Of-An-External-Command.md)
+* [ Launch a simple http server ](Vim/Launch-a-simple-http-server.md)
+* [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
 42 Tips available

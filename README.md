@@ -8,6 +8,7 @@ To generate this readme:
 
 # Ansible
 
+* [ Ansible Vault Tips ](Ansible/Ansible-Vault-Tips.md)
 * [ Dump all variables ](Ansible/Dump-all-variables.md)
 
 # Bash
@@ -74,4 +75,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-42 Tips available
+44 Tips available

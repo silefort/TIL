@@ -73,7 +73,8 @@ To generate this readme:
 * [ Display a smile in vim ](Vim/Display-a-smile-in-vim.md)
 * [ Append Output Of An External Command ](Vim/Append-Output-Of-An-External-Command.md)
 * [ Launch a simple http server ](Vim/Launch-a-simple-http-server.md)
+* [ Jumps ](Vim/Jumps.md)
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-45 Tips available
+46 Tips available

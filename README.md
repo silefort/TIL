@@ -15,6 +15,7 @@ To generate this readme:
 
 * [ Edit previous command with fc ](Bash/Edit-previous-command-with-fc.md)
 * [ Undo some command line editing ](Bash/Undo-some-command-line-editing.md)
+* [ Pipe and stderr ](Bash/Pipe-and-stderr.md)
 * [ Scp cheatsheet ](Bash/Scp-cheatsheet.md)
 * [ Bash for loops ](Bash/Bash-for-loops.md)
 * [ Bash vi mode cheatsheet ](Bash/Bash-vi-mode-cheatsheet.md)

@@ -73,9 +73,10 @@ To generate this readme:
 * [ Generate a list from grep ](Vim/Generate-a-list-from-grep.md)
 * [ Display a smile in vim ](Vim/Display-a-smile-in-vim.md)
 * [ Append Output Of An External Command ](Vim/Append-Output-Of-An-External-Command.md)
+* [ Reverse Sort Lines ](Vim/Reverse-Sort-Lines.md)
 * [ Launch a simple http server ](Vim/Launch-a-simple-http-server.md)
 * [ Jumps ](Vim/Jumps.md)
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-46 Tips available
+48 Tips available

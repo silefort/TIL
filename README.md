@@ -73,6 +73,7 @@ To generate this readme:
 
 # Vim
 
+* [ Insert Date On Current_line ](Vim/Insert-Date-On-Current_line.md)
 * [ Format JSON with jq ](Vim/Format-JSON-with-jq.md)
 * [ Run Vim Command from Command Line ](Vim/Run-Vim-Command-from-Command-Line.md)
 * [ Read only vim ](Vim/Read-only-vim.md)
@@ -87,4 +88,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-53 Tips available
+54 Tips available

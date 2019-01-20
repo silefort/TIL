@@ -24,8 +24,10 @@ To generate this readme:
 * [ Pretty xml from the command line ](Bash/Pretty-xml-from-the-command-line.md)
 * [ Bash delete on current line ](Bash/Bash-delete-on-current-line.md)
 * [ Difference between output of two commands ](Bash/Difference-between-output-of-two-commands.md)
+* [ Search Using fd ](Bash/Search-Using-fd.md)
 * [ Curl Show Only Headers ](Bash/Curl-Show-Only-Headers.md)
 * [ Pretty json from the command line ](Bash/Pretty-json-from-the-command-line.md)
+* [ Scroll Through_files Using fzf ](Bash/Scroll-Through_files-Using-fzf.md)
 * [ Bash read a file line by line ](Bash/Bash-read-a-file-line-by-line.md)
 * [ History cheat sheet ](Bash/History-cheat-sheet.md)
 
@@ -77,4 +79,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-45 Tips available
+48 Tips available

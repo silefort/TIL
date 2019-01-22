@@ -21,6 +21,7 @@ To generate this readme:
 * [ Bash for loops ](Bash/Bash-for-loops.md)
 * [ Bash vi mode cheatsheet ](Bash/Bash-vi-mode-cheatsheet.md)
 * [ Edit command from history before exec ](Bash/Edit-command-from-history-before-exec.md)
+* [ Show declared shell functions ](Bash/Show-declared-shell-functions.md)
 * [ Redirect stderr to stdout ](Bash/Redirect-stderr-to-stdout.md)
 * [ Fx cheatsheet ](Bash/Fx-cheatsheet.md)
 * [ Pretty xml from the command line ](Bash/Pretty-xml-from-the-command-line.md)
@@ -92,4 +93,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-58 Tips available
+59 Tips available

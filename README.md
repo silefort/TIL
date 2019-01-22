@@ -22,6 +22,7 @@ To generate this readme:
 * [ Bash vi mode cheatsheet ](Bash/Bash-vi-mode-cheatsheet.md)
 * [ Edit command from history before exec ](Bash/Edit-command-from-history-before-exec.md)
 * [ Redirect stderr to stdout ](Bash/Redirect-stderr-to-stdout.md)
+* [ Fx cheatsheet ](Bash/Fx-cheatsheet.md)
 * [ Pretty xml from the command line ](Bash/Pretty-xml-from-the-command-line.md)
 * [ Bash delete on current line ](Bash/Bash-delete-on-current-line.md)
 * [ Difference between output of two commands ](Bash/Difference-between-output-of-two-commands.md)
@@ -91,4 +92,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-57 Tips available
+58 Tips available

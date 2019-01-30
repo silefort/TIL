@@ -36,6 +36,7 @@ To generate this readme:
 
 # Git
 
+* [ Delete remote git branch ](Git/Delete-remote-git-branch.md)
 * [ Tree view of commits ](Git/Tree-view-of-commits.md)
 * [ List commits that change a file ](Git/List-commits-that-change-a-file.md)
 * [ Clone a repo locally from git ](Git/Clone-a-repo-locally-from-git.md)
@@ -69,6 +70,7 @@ To generate this readme:
 * [ Exit from telnet ](Unix/Exit-from-telnet.md)
 * [ Execute command as user ](Unix/Execute-command-as-user.md)
 * [ Show network routes ](Unix/Show-network-routes.md)
+* [ SSh port forwarding ](Unix/SSh-port-forwarding.md)
 * [ Get PIDs for processes listening on a port ](Unix/Get-PIDs-for-processes-listening-on-a-port.md)
 * [ Specify the key to use in ssh ](Unix/Specify-the-key-to-use-in-ssh.md)
 * [ Find Process And Kill It ](Unix/Find-Process-And-Kill-It.md)
@@ -93,4 +95,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-59 Tips available
+61 Tips available

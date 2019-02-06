@@ -84,6 +84,7 @@ To generate this readme:
 * [ Run Vim Command from Command Line ](Vim/Run-Vim-Command-from-Command-Line.md)
 * [ Read only vim ](Vim/Read-only-vim.md)
 * [ Open File At Line Number ](Vim/Open-File-At-Line-Number.md)
+* [ Normal mode quit without saving ](Vim/Normal-mode-quit-without-saving.md)
 * [ Insert mode filename completion ](Vim/Insert-mode-filename-completion.md)
 * [ Toggle Line Numbers ](Vim/Toggle-Line-Numbers.md)
 * [ Generate a list from grep ](Vim/Generate-a-list-from-grep.md)
@@ -95,4 +96,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-61 Tips available
+62 Tips available

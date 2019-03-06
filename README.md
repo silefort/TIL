@@ -46,6 +46,7 @@ To generate this readme:
 # MacOS
 
 * [ Keep Homebrew clean ](MacOS/Keep-Homebrew-clean.md)
+* [ Wake Up Your Mac ](MacOS/Wake-Up-Your-Mac.md)
 * [ Add your ssh key and passphrase to macOS Keychain ](MacOS/Add-your-ssh-key-and-passphrase-to-macOS-Keychain.md)
 * [ Brew cheatsheet ](MacOS/Brew-cheatsheet.md)
 * [ macOS boot option cheatsheet ](MacOS/macOS-boot-option-cheatsheet.md)
@@ -60,6 +61,7 @@ To generate this readme:
 * [ Focus the url bar ](The-Internets/Focus-the-url-bar.md)
 * [ Html 2 markdown ](The-Internets/Html-2-markdown.md)
 * [ Download humble bundle books in parallel ](The-Internets/Download-humble-bundle-books-in-parallel.md)
+* [ Set Recurring Reminders With Slack ](The-Internets/Set-Recurring-Reminders-With-Slack.md)
 
 # Toolbox
 
@@ -96,4 +98,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-62 Tips available
+64 Tips available

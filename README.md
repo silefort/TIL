@@ -30,6 +30,7 @@ To generate this readme:
 * [ Search Using fd ](Bash/Search-Using-fd.md)
 * [ Curl Show Only Headers ](Bash/Curl-Show-Only-Headers.md)
 * [ Pretty json from the command line ](Bash/Pretty-json-from-the-command-line.md)
+* [ Revert Lines with_tail ](Bash/Revert-Lines-with_tail.md)
 * [ Scroll Through_files Using fzf ](Bash/Scroll-Through_files-Using-fzf.md)
 * [ Bash read a file line by line ](Bash/Bash-read-a-file-line-by-line.md)
 * [ History cheat sheet ](Bash/History-cheat-sheet.md)
@@ -98,4 +99,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-64 Tips available
+65 Tips available

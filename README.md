@@ -42,6 +42,7 @@ To generate this readme:
 * [ Tree view of commits ](Git/Tree-view-of-commits.md)
 * [ List commits that change a file ](Git/List-commits-that-change-a-file.md)
 * [ Clone a repo locally from git ](Git/Clone-a-repo-locally-from-git.md)
+* [ Git Aliases ](Git/Git-Aliases.md)
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
 * [ Clone A Local Repo ](Git/Clone-A-Local-Repo.md)
 
@@ -100,4 +101,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-66 Tips available
+67 Tips available

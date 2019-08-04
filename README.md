@@ -42,6 +42,7 @@ To generate this readme:
 * [ List commits that change a file ](Git/List-commits-that-change-a-file.md)
 * [ Clone a repo locally from git ](Git/Clone-a-repo-locally-from-git.md)
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
+* [ Get Head Hash ](Git/Get-Head-Hash.md)
 * [ Clone A Local Repo ](Git/Clone-A-Local-Repo.md)
 
 # MacOS
@@ -99,4 +100,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-65 Tips available
+66 Tips available

@@ -26,6 +26,7 @@ To generate this readme:
 * [ Fx cheatsheet ](Bash/Fx-cheatsheet.md)
 * [ Pretty xml from the command line ](Bash/Pretty-xml-from-the-command-line.md)
 * [ Bash delete on current line ](Bash/Bash-delete-on-current-line.md)
+* [ Copy and paste from the command line ](Bash/Copy-and-paste-from-the-command-line.md)
 * [ Difference between output of two commands ](Bash/Difference-between-output-of-two-commands.md)
 * [ Search Using fd ](Bash/Search-Using-fd.md)
 * [ Curl Show Only Headers ](Bash/Curl-Show-Only-Headers.md)
@@ -41,6 +42,7 @@ To generate this readme:
 * [ Tree view of commits ](Git/Tree-view-of-commits.md)
 * [ List commits that change a file ](Git/List-commits-that-change-a-file.md)
 * [ Clone a repo locally from git ](Git/Clone-a-repo-locally-from-git.md)
+* [ Git Aliases ](Git/Git-Aliases.md)
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
 * [ Get Head Hash ](Git/Get-Head-Hash.md)
 * [ Clone A Local Repo ](Git/Clone-A-Local-Repo.md)
@@ -100,4 +102,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-66 Tips available
+68 Tips available

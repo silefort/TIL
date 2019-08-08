@@ -18,6 +18,7 @@ To generate this readme:
 * [ Pipe and stderr ](Bash/Pipe-and-stderr.md)
 * [ Curl and pretty json ](Bash/Curl-and-pretty-json.md)
 * [ Scp cheatsheet ](Bash/Scp-cheatsheet.md)
+* [ Make Idempotent Scripts ](Bash/Make-Idempotent-Scripts.md)
 * [ Bash for loops ](Bash/Bash-for-loops.md)
 * [ Bash vi mode cheatsheet ](Bash/Bash-vi-mode-cheatsheet.md)
 * [ Edit command from history before exec ](Bash/Edit-command-from-history-before-exec.md)
@@ -65,6 +66,7 @@ To generate this readme:
 * [ Focus the url bar ](The-Internets/Focus-the-url-bar.md)
 * [ Html 2 markdown ](The-Internets/Html-2-markdown.md)
 * [ Download humble bundle books in parallel ](The-Internets/Download-humble-bundle-books-in-parallel.md)
+* [ Tridactyl ](The-Internets/Tridactyl.md)
 * [ Set Recurring Reminders With Slack ](The-Internets/Set-Recurring-Reminders-With-Slack.md)
 
 # Toolbox
@@ -87,6 +89,7 @@ To generate this readme:
 
 * [ Insert Date On Current_line ](Vim/Insert-Date-On-Current_line.md)
 * [ Format JSON with jq ](Vim/Format-JSON-with-jq.md)
+* [ Nerdtree Cheatsheet ](Vim/Nerdtree-Cheatsheet.md)
 * [ Run Vim Command from Command Line ](Vim/Run-Vim-Command-from-Command-Line.md)
 * [ Read only vim ](Vim/Read-only-vim.md)
 * [ Open File At Line Number ](Vim/Open-File-At-Line-Number.md)
@@ -102,4 +105,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-68 Tips available
+71 Tips available

@@ -25,6 +25,7 @@
      q          close status
      R          reload status
      U          Revert the file back to the index
+     g?         Show help
 
 ## Diffs
 

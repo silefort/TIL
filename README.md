@@ -46,7 +46,9 @@ To generate this readme:
 * [ Git Aliases ](Git/Git-Aliases.md)
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
 * [ Get Head Hash ](Git/Get-Head-Hash.md)
+* [ Reset this ](Git/Reset-this.md)
 * [ Clone A Local Repo ](Git/Clone-A-Local-Repo.md)
+* [ Use Stash ](Git/Use-Stash.md)
 
 # MacOS
 
@@ -91,6 +93,7 @@ To generate this readme:
 * [ Format JSON with jq ](Vim/Format-JSON-with-jq.md)
 * [ Nerdtree Cheatsheet ](Vim/Nerdtree-Cheatsheet.md)
 * [ Run Vim Command from Command Line ](Vim/Run-Vim-Command-from-Command-Line.md)
+* [ Fugitive Cheatsheet ](Vim/Fugitive-Cheatsheet.md)
 * [ Read only vim ](Vim/Read-only-vim.md)
 * [ Open File At Line Number ](Vim/Open-File-At-Line-Number.md)
 * [ Normal mode quit without saving ](Vim/Normal-mode-quit-without-saving.md)
@@ -105,4 +108,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-71 Tips available
+74 Tips available

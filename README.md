@@ -69,6 +69,7 @@ To generate this readme:
 
 * [ Focus the url bar ](The-Internets/Focus-the-url-bar.md)
 * [ Html 2 markdown ](The-Internets/Html-2-markdown.md)
+* [ Firefox AboutConfig Tweaks ](The-Internets/Firefox-AboutConfig-Tweaks.md)
 * [ Download humble bundle books in parallel ](The-Internets/Download-humble-bundle-books-in-parallel.md)
 * [ Tridactyl ](The-Internets/Tridactyl.md)
 * [ Set Recurring Reminders With Slack ](The-Internets/Set-Recurring-Reminders-With-Slack.md)
@@ -110,4 +111,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-76 Tips available
+77 Tips available

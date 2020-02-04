@@ -41,8 +41,10 @@ To generate this readme:
 
 * [ Delete remote git branch ](Git/Delete-remote-git-branch.md)
 * [ Tree view of commits ](Git/Tree-view-of-commits.md)
+* [ Only Stage Deleted_files ](Git/Only-Stage-Deleted_files.md)
 * [ List commits that change a file ](Git/List-commits-that-change-a-file.md)
 * [ Clone a repo locally from git ](Git/Clone-a-repo-locally-from-git.md)
+* [ What does that git alias do ](Git/What-does-that-git-alias-do.md)
 * [ Git Aliases ](Git/Git-Aliases.md)
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
 * [ Get Head Hash ](Git/Get-Head-Hash.md)
@@ -108,4 +110,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-74 Tips available
+76 Tips available

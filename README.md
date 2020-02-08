@@ -15,6 +15,7 @@ To generate this readme:
 
 * [ Edit previous command with fc ](Bash/Edit-previous-command-with-fc.md)
 * [ Undo some command line editing ](Bash/Undo-some-command-line-editing.md)
+* [ Get Wifi Password ](Bash/Get-Wifi-Password.md)
 * [ Pipe and stderr ](Bash/Pipe-and-stderr.md)
 * [ Curl and pretty json ](Bash/Curl-and-pretty-json.md)
 * [ Scp cheatsheet ](Bash/Scp-cheatsheet.md)
@@ -98,6 +99,7 @@ To generate this readme:
 * [ Run Vim Command from Command Line ](Vim/Run-Vim-Command-from-Command-Line.md)
 * [ Fugitive Cheatsheet ](Vim/Fugitive-Cheatsheet.md)
 * [ Read only vim ](Vim/Read-only-vim.md)
+* [ Custom Vim Command ](Vim/Custom-Vim-Command.md)
 * [ Open File At Line Number ](Vim/Open-File-At-Line-Number.md)
 * [ Normal mode quit without saving ](Vim/Normal-mode-quit-without-saving.md)
 * [ Insert mode filename completion ](Vim/Insert-mode-filename-completion.md)
@@ -111,4 +113,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-77 Tips available
+79 Tips available

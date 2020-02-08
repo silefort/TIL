@@ -3,6 +3,7 @@
 | Name        | Category   | Comments                                        | Link                                     |
 |-------------|:-----------|-------------------------------------------------|------------------------------------------|
 | csvcut      | Bash       | Parse csv at the commande line                  | pip install csvcut                       |
+| flan        | Security   | A pretty sweet vulnerability scanner            | https://github.com/cloudflare/flan       |
 | footloose   | Docker     | Containers that look like Virtual Machines      | https://github.com/weaveworks/footloose  |
 | hey         | Load tests | send some load to a web application             | https://github.com/rakyll/hey            |
 | httpbin.org | Web        | Fake API HTTP Server                            | http://httpbin.org/                      |

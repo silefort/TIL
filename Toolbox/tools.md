@@ -11,5 +11,6 @@
 | jsonlint    | Bash       | A JSON parser and validator with a CLI          | https://github.com/zaach/jsonlint        |
 | lazygit     | Git        | simple terminal UI for git commands             | https://github.com/jesseduffield/lazygit |
 | mkcert      | Dev        | making locally-trusted development certificates | https://github.com/FiloSottile/mkcert    |
+| storm       | Infra      | Manage your SSH like a boss                     | https://github.com/emre/storm/           |
 | twint       | Web        | Scrap twitter accounts                          | https://github.com/twintproject/twint    |
 | webhook     | Infra      | a lightweight webhook server to run shell cmds  | https://github.com/adnanh/webhook        |

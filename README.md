@@ -109,6 +109,7 @@ To generate this readme:
 * [ Display a smile in vim ](Vim/Display-a-smile-in-vim.md)
 * [ Append Output Of An External Command ](Vim/Append-Output-Of-An-External-Command.md)
 * [ Reverse Sort Lines ](Vim/Reverse-Sort-Lines.md)
+* [ Search and Replace Control Characters ](Vim/Search-and-Replace-Control-Characters.md)
 * [ Launch a simple http server ](Vim/Launch-a-simple-http-server.md)
 * [ Jumps ](Vim/Jumps.md)
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)

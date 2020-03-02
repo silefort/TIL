@@ -87,6 +87,7 @@ To generate this readme:
 * [ Get PIDs for processes listening on a port ](Unix/Get-PIDs-for-processes-listening-on-a-port.md)
 * [ Ssh cheatsheet ](Unix/Ssh-cheatsheet.md)
 * [ Specify the key to use in ssh ](Unix/Specify-the-key-to-use-in-ssh.md)
+* [ Install ifconfig ](Unix/Install-ifconfig.md)
 * [ Find Process And Kill It ](Unix/Find-Process-And-Kill-It.md)
 * [ Show current month calendar ](Unix/Show-current-month-calendar.md)
 * [ Ssh disable Host Key Checking ](Unix/Ssh-disable-Host-Key-Checking.md)
@@ -114,4 +115,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-80 Tips available
+81 Tips available

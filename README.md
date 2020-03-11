@@ -84,6 +84,7 @@ To generate this readme:
 * [ Exit from telnet ](Unix/Exit-from-telnet.md)
 * [ Execute command as user ](Unix/Execute-command-as-user.md)
 * [ Show network routes ](Unix/Show-network-routes.md)
+* [ Show OS and Hardware details ](Unix/Show-OS-and-Hardware-details.md)
 * [ Get PIDs for processes listening on a port ](Unix/Get-PIDs-for-processes-listening-on-a-port.md)
 * [ Ssh cheatsheet ](Unix/Ssh-cheatsheet.md)
 * [ Specify the key to use in ssh ](Unix/Specify-the-key-to-use-in-ssh.md)
@@ -115,4 +116,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-81 Tips available
+82 Tips available

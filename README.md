@@ -98,6 +98,7 @@ To generate this readme:
 * [ Insert Date On Current_line ](Vim/Insert-Date-On-Current_line.md)
 * [ Format JSON with jq ](Vim/Format-JSON-with-jq.md)
 * [ Nerdtree Cheatsheet ](Vim/Nerdtree-Cheatsheet.md)
+* [ Play with marks ](Vim/Play-with-marks.md)
 * [ Run Vim Command from Command Line ](Vim/Run-Vim-Command-from-Command-Line.md)
 * [ Fugitive Cheatsheet ](Vim/Fugitive-Cheatsheet.md)
 * [ Read only vim ](Vim/Read-only-vim.md)
@@ -116,4 +117,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-82 Tips available
+83 Tips available

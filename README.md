@@ -23,6 +23,8 @@ To generate this readme:
 * [ Bash for loops ](Bash/Bash-for-loops.md)
 * [ Bash vi mode cheatsheet ](Bash/Bash-vi-mode-cheatsheet.md)
 * [ Edit command from history before exec ](Bash/Edit-command-from-history-before-exec.md)
+* [ Scroll Through files Using fzf ](Bash/Scroll-Through-files-Using-fzf.md)
+* [ Revert Lines with tail ](Bash/Revert-Lines-with-tail.md)
 * [ Show declared shell functions ](Bash/Show-declared-shell-functions.md)
 * [ Redirect stderr to stdout ](Bash/Redirect-stderr-to-stdout.md)
 * [ Fx cheatsheet ](Bash/Fx-cheatsheet.md)
@@ -33,8 +35,7 @@ To generate this readme:
 * [ Search Using fd ](Bash/Search-Using-fd.md)
 * [ Curl Show Only Headers ](Bash/Curl-Show-Only-Headers.md)
 * [ Pretty json from the command line ](Bash/Pretty-json-from-the-command-line.md)
-* [ Revert Lines with_tail ](Bash/Revert-Lines-with_tail.md)
-* [ Scroll Through_files Using fzf ](Bash/Scroll-Through_files-Using-fzf.md)
+* [ Find your top 10 linux command ](Bash/Find-your-top-10-linux-command.md)
 * [ Bash read a file line by line ](Bash/Bash-read-a-file-line-by-line.md)
 * [ History cheat sheet ](Bash/History-cheat-sheet.md)
 
@@ -82,6 +83,8 @@ To generate this readme:
 # Unix
 
 * [ Exit from telnet ](Unix/Exit-from-telnet.md)
+* [ Control your Jobs ](Unix/Control-your-Jobs.md)
+* [ Play with arguments ](Unix/Play-with-arguments.md)
 * [ Execute command as user ](Unix/Execute-command-as-user.md)
 * [ Show network routes ](Unix/Show-network-routes.md)
 * [ Show OS and Hardware details ](Unix/Show-OS-and-Hardware-details.md)
@@ -117,4 +120,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-83 Tips available
+86 Tips available

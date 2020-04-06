@@ -3,6 +3,7 @@
 | Name                | Category   | Comments                                                           | Link                                        |
 |---------------------|:-----------|--------------------------------------------------------------------|---------------------------------------------|
 | CIDR.xyz            | Network    | An interactive IP address and CIDR range visualizer                | https://cidr.xyz/                           |
+| Lynis               | Security   | Security auditing tool for Linux                                   | https://github.com/CISOfy/lynis             |
 | csvcut              | Bash       | Parse csv at the commande line                                     | pip install csvcut                          |
 | docker auto-compose | Docker     | Generate a docker-compose yaml definition from a running container | https://github.com/Red5d/docker-autocompose |
 | flan                | Security   | A pretty sweet vulnerability scanner                               | https://github.com/cloudflare/flan          |

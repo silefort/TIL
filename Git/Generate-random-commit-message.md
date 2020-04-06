@@ -1,3 +1,11 @@
-# Generate a random commit message
+# Generate random commit messages
 
-    $ curl -s http://whatthecommit.com/ | grep -A1 '"content"' | tail -1 | awk -F'>' '{ print $NF }'
+whatthecommit.com display random messages that can be included in your commit
+
+To use it, you can add a specific git alias:
+
+    git config --global alias.rand '!git commit -m "$(curl -s whatthecommit.com/index.txt)"'
+
+Then just use it:
+
+    git rand

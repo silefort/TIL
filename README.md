@@ -17,6 +17,7 @@ To generate this readme:
 * [ Undo some command line editing ](Bash/Undo-some-command-line-editing.md)
 * [ Get Wifi Password ](Bash/Get-Wifi-Password.md)
 * [ Pipe and stderr ](Bash/Pipe-and-stderr.md)
+* [ Monitor ssl certificate expiration_date ](Bash/Monitor-ssl-certificate-expiration_date.md)
 * [ Curl and pretty json ](Bash/Curl-and-pretty-json.md)
 * [ Scp cheatsheet ](Bash/Scp-cheatsheet.md)
 * [ Make Idempotent Scripts ](Bash/Make-Idempotent-Scripts.md)
@@ -52,6 +53,7 @@ To generate this readme:
 * [ Get Head Hash ](Git/Get-Head-Hash.md)
 * [ Reset this ](Git/Reset-this.md)
 * [ Clone A Local Repo ](Git/Clone-A-Local-Repo.md)
+* [ List your most recently used branches ](Git/List-your-most-recently-used-branches.md)
 * [ Use Stash ](Git/Use-Stash.md)
 
 # MacOS
@@ -120,4 +122,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-86 Tips available
+88 Tips available

@@ -106,6 +106,7 @@ To generate this readme:
 * [ Play with marks ](Vim/Play-with-marks.md)
 * [ Run Vim Command from Command Line ](Vim/Run-Vim-Command-from-Command-Line.md)
 * [ Fugitive Cheatsheet ](Vim/Fugitive-Cheatsheet.md)
+* [ Encrypt file using vim ](Vim/Encrypt-file-using-vim.md)
 * [ Read only vim ](Vim/Read-only-vim.md)
 * [ Custom Vim Command ](Vim/Custom-Vim-Command.md)
 * [ Open File At Line Number ](Vim/Open-File-At-Line-Number.md)
@@ -122,4 +123,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-88 Tips available
+89 Tips available

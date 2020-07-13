@@ -40,6 +40,10 @@ To generate this readme:
 * [ Bash read a file line by line ](Bash/Bash-read-a-file-line-by-line.md)
 * [ History cheat sheet ](Bash/History-cheat-sheet.md)
 
+# Docker
+
+* [ Docker Cheat Sheet ](Docker/Docker-Cheat-Sheet.md)
+
 # Git
 
 * [ Delete remote git branch ](Git/Delete-remote-git-branch.md)
@@ -65,6 +69,10 @@ To generate this readme:
 * [ macOS boot option cheatsheet ](MacOS/macOS-boot-option-cheatsheet.md)
 * [ Install telnet ftp ](MacOS/Install-telnet-ftp.md)
 
+# Nginx
+
+* [ Use nginxui to modify your conf through a UI ](Nginx/Use-nginxui-to-modify-your-conf-through-a-UI.md)
+
 # Social
 
 * [ Get Lastfm last week top artists ](Social/Get-Lastfm-last-week-top-artists.md)
@@ -89,6 +97,7 @@ To generate this readme:
 * [ Play with arguments ](Unix/Play-with-arguments.md)
 * [ Execute command as user ](Unix/Execute-command-as-user.md)
 * [ Show network routes ](Unix/Show-network-routes.md)
+* [ Exit ssh stuck sessions ](Unix/Exit-ssh-stuck-sessions.md)
 * [ Show OS and Hardware details ](Unix/Show-OS-and-Hardware-details.md)
 * [ Get PIDs for processes listening on a port ](Unix/Get-PIDs-for-processes-listening-on-a-port.md)
 * [ Ssh cheatsheet ](Unix/Ssh-cheatsheet.md)
@@ -123,4 +132,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-89 Tips available
+92 Tips available

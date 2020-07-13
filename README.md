@@ -34,6 +34,7 @@ To generate this readme:
 * [ Copy and paste from the command line ](Bash/Copy-and-paste-from-the-command-line.md)
 * [ Difference between output of two commands ](Bash/Difference-between-output-of-two-commands.md)
 * [ Search Using fd ](Bash/Search-Using-fd.md)
+* [ fzf cheatsheet ](Bash/fzf-cheatsheet.md)
 * [ Curl Show Only Headers ](Bash/Curl-Show-Only-Headers.md)
 * [ Pretty json from the command line ](Bash/Pretty-json-from-the-command-line.md)
 * [ Find your top 10 linux command ](Bash/Find-your-top-10-linux-command.md)
@@ -132,4 +133,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-92 Tips available
+93 Tips available

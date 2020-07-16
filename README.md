@@ -96,8 +96,10 @@ To generate this readme:
 * [ Exit from telnet ](Unix/Exit-from-telnet.md)
 * [ Control your Jobs ](Unix/Control-your-Jobs.md)
 * [ Play with arguments ](Unix/Play-with-arguments.md)
+* [ Systemd list all running services ](Unix/Systemd-list-all-running-services.md)
 * [ Execute command as user ](Unix/Execute-command-as-user.md)
 * [ Show network routes ](Unix/Show-network-routes.md)
+* [ Play with the history command ](Unix/Play-with-the-history-command.md)
 * [ Exit ssh stuck sessions ](Unix/Exit-ssh-stuck-sessions.md)
 * [ Show OS and Hardware details ](Unix/Show-OS-and-Hardware-details.md)
 * [ Get PIDs for processes listening on a port ](Unix/Get-PIDs-for-processes-listening-on-a-port.md)
@@ -127,10 +129,12 @@ To generate this readme:
 * [ Display a smile in vim ](Vim/Display-a-smile-in-vim.md)
 * [ Append Output Of An External Command ](Vim/Append-Output-Of-An-External-Command.md)
 * [ Reverse Sort Lines ](Vim/Reverse-Sort-Lines.md)
+* [ Play with parameters ](Vim/Play-with-parameters.md)
 * [ Search and Replace Control Characters ](Vim/Search-and-Replace-Control-Characters.md)
 * [ Launch a simple http server ](Vim/Launch-a-simple-http-server.md)
+* [ List all script installed for vim session ](Vim/List-all-script-installed-for-vim-session.md)
 * [ Jumps ](Vim/Jumps.md)
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-93 Tips available
+97 Tips available

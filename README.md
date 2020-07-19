@@ -51,6 +51,7 @@ To generate this readme:
 * [ Tree view of commits ](Git/Tree-view-of-commits.md)
 * [ Only Stage Deleted_files ](Git/Only-Stage-Deleted_files.md)
 * [ List commits that change a file ](Git/List-commits-that-change-a-file.md)
+* [ Checkout last checkedout branch ](Git/Checkout-last-checkedout-branch.md)
 * [ Clone a repo locally from git ](Git/Clone-a-repo-locally-from-git.md)
 * [ What does that git alias do ](Git/What-does-that-git-alias-do.md)
 * [ Git Aliases ](Git/Git-Aliases.md)
@@ -137,4 +138,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-97 Tips available
+98 Tips available

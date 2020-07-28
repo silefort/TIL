@@ -109,6 +109,7 @@ To generate this readme:
 * [ Install ifconfig ](Unix/Install-ifconfig.md)
 * [ Find Process And Kill It ](Unix/Find-Process-And-Kill-It.md)
 * [ Show current month calendar ](Unix/Show-current-month-calendar.md)
+* [ Curl_cheatsheet ](Unix/Curl_cheatsheet.md)
 * [ Ssh disable Host Key Checking ](Unix/Ssh-disable-Host-Key-Checking.md)
 
 # Vim
@@ -138,4 +139,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-98 Tips available
+99 Tips available

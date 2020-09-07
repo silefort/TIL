@@ -22,6 +22,7 @@ To generate this readme:
 * [ Scp cheatsheet ](Bash/Scp-cheatsheet.md)
 * [ Make Idempotent Scripts ](Bash/Make-Idempotent-Scripts.md)
 * [ Bash for loops ](Bash/Bash-for-loops.md)
+* [ Convert JSON to CSV ](Bash/Convert-JSON-to-CSV.md)
 * [ Bash vi mode cheatsheet ](Bash/Bash-vi-mode-cheatsheet.md)
 * [ Edit command from history before exec ](Bash/Edit-command-from-history-before-exec.md)
 * [ Scroll Through files Using fzf ](Bash/Scroll-Through-files-Using-fzf.md)
@@ -100,6 +101,7 @@ To generate this readme:
 
 * [ Exit from telnet ](Unix/Exit-from-telnet.md)
 * [ Control your Jobs ](Unix/Control-your-Jobs.md)
+* [ Hide your files ](Unix/Hide-your-files.md)
 * [ Play with arguments ](Unix/Play-with-arguments.md)
 * [ Systemd list all running services ](Unix/Systemd-list-all-running-services.md)
 * [ Execute command as user ](Unix/Execute-command-as-user.md)
@@ -143,4 +145,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-100 Tips available
+102 Tips available

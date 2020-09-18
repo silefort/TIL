@@ -10,6 +10,7 @@
 | flan                | Security   | A pretty sweet vulnerability scanner                               | https://github.com/cloudflare/flan           |
 | flaticon            | Slides     | The largest database of free iconsi                                | https://www.flaticon.com/                    |
 | footloose           | Docker     | Containers that look like Virtual Machines                         | https://github.com/weaveworks/footloose      |
+| glab                | Git        | watch running pipelines directly from your CLI                     | https://github.com/profclems/glab            |
 | hey                 | Load tests | send some load to a web application                                | https://github.com/rakyll/hey                |
 | httpbin.org         | Web        | Fake API HTTP Server                                               | http://httpbin.org/                          |
 | httpstat.us         | Web        | Fake API HTTP Server                                               | http://httpstat.us                           |

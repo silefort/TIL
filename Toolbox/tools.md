@@ -24,3 +24,4 @@
 | unsplash            | Slides     | The internet’s source of freely usable images                      | https://unsplash.com/                        |
 | urlpages            | Web        | Create and view web pages stored entirely in the URL               | https://github.com/jstrieb/urlpages          |
 | webhook             | Infra      | a lightweight webhook server to run shell cmds                     | https://github.com/adnanh/webhook            |
+| webify              | Infra      | Turn shell commands into web services                              | https://github.com/beefsack/webify           |

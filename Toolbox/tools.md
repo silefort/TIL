@@ -17,6 +17,7 @@
 | jsonlint            | Bash       | A JSON parser and validator with a CLI                             | https://github.com/zaach/jsonlint            |
 | lazygit             | Git        | simple terminal UI for git commands                                | https://github.com/jesseduffield/lazygit     |
 | mkcert              | Dev        | making locally-trusted development certificates                    | https://github.com/FiloSottile/mkcert        |
+| netscanner          | Infra      | TCP/UDP scanner to find open or closed ports                       | https://github.com/R4yGM/netscanner          |
 | oha                 | Infra      | HTTP load generator, inspired by rakyll/hey with tui animation     | https://lib.rs/crates/oha                    |
 | spotdl              | Music      | Download Spotify playlists from YouTube with albumart and metadata | https://github.com/ritiek/spotify-downloader |
 | storm               | Infra      | Manage your SSH like a boss                                        | https://github.com/emre/storm/               |

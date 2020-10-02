@@ -7,6 +7,7 @@
 | amiunique.org       | Security   | Learn how identifiable you are on the internet                     | https://amiunique.org/                       |
 | csvcut              | Bash       | Parse csv at the commande line                                     | pip install csvcut                           |
 | docker auto-compose | Docker     | Generate a docker-compose yaml definition from a running container | https://github.com/Red5d/docker-autocompose  |
+| firefox-relay       | Web        | Generate temporary mail aliases                                    | https://relay.firefox.com                    |
 | flan                | Security   | A pretty sweet vulnerability scanner                               | https://github.com/cloudflare/flan           |
 | flaticon            | Slides     | The largest database of free iconsi                                | https://www.flaticon.com/                    |
 | footloose           | Docker     | Containers that look like Virtual Machines                         | https://github.com/weaveworks/footloose      |

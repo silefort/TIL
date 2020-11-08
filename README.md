@@ -41,6 +41,7 @@ To generate this readme:
 * [ Find your top 10 linux command ](Bash/Find-your-top-10-linux-command.md)
 * [ Bash read a file line by line ](Bash/Bash-read-a-file-line-by-line.md)
 * [ History cheat sheet ](Bash/History-cheat-sheet.md)
+* [ Tar Cheatsheet ](Bash/Tar-Cheatsheet.md)
 
 # Docker
 
@@ -146,4 +147,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-103 Tips available
+104 Tips available

@@ -52,6 +52,7 @@ To generate this readme:
 * [ Delete remote git branch ](Git/Delete-remote-git-branch.md)
 * [ Tree view of commits ](Git/Tree-view-of-commits.md)
 * [ Only Stage Deleted_files ](Git/Only-Stage-Deleted_files.md)
+* [ Amend a git commit message ](Git/Amend-a-git-commit-message.md)
 * [ List commits that change a file ](Git/List-commits-that-change-a-file.md)
 * [ Checkout last checkedout branch ](Git/Checkout-last-checkedout-branch.md)
 * [ Clone a repo locally from git ](Git/Clone-a-repo-locally-from-git.md)
@@ -147,4 +148,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-104 Tips available
+105 Tips available

@@ -68,6 +68,7 @@ To generate this readme:
 # MacOS
 
 * [ Keep Homebrew clean ](MacOS/Keep-Homebrew-clean.md)
+* [ Generate Accented Characters ](MacOS/Generate-Accented-Characters.md)
 * [ Wake Up Your Mac ](MacOS/Wake-Up-Your-Mac.md)
 * [ Add your ssh key and passphrase to macOS Keychain ](MacOS/Add-your-ssh-key-and-passphrase-to-macOS-Keychain.md)
 * [ Brew cheatsheet ](MacOS/Brew-cheatsheet.md)
@@ -148,4 +149,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-105 Tips available
+106 Tips available

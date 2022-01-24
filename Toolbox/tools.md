@@ -21,12 +21,13 @@
 | mkcert              | Dev           | making locally-trusted development certificates                    | https://github.com/FiloSottile/mkcert        |
 | netscanner          | Infra         | TCP/UDP scanner to find open or closed ports                       | https://github.com/R4yGM/netscanner          |
 | oha                 | Infra         | HTTP load generator, inspired by rakyll/hey with tui animation     | https://lib.rs/crates/oha                    |
+| retromat            | Agile         | Suggest random Agile retrospective ideas                           | https://retromat.org/                        |
+| sherlock            | Social Medias | Hunt down social media accounts by username                        | https://github.com/sherlock-project/sherlock |
 | spotdl              | Music         | Download Spotify playlists from YouTube with albumart and metadata | https://github.com/ritiek/spotify-downloader |
 | storm               | Infra         | Manage your SSH like a boss                                        | https://github.com/emre/storm/               |
 | twint               | Web           | Scrap twitter accounts                                             | https://github.com/twintproject/twint        |
 | unsplash            | Slides        | The internet’s source of freely usable images                      | https://unsplash.com/                        |
+| uptime-kuma         | Infra         | Self Hosted service to monitor your services like Uptime Robot     | https://github.com/louislam/uptime-kuma      |
 | urlpages            | Web           | Create and view web pages stored entirely in the URL               | https://github.com/jstrieb/urlpages          |
 | webhook             | Infra         | a lightweight webhook server to run shell cmds                     | https://github.com/adnanh/webhook            |
 | webify              | Infra         | Turn shell commands into web services                              | https://github.com/beefsack/webify           |
-| uptime-kuma         | Infra         | Self Hosted service to monitor your services like Uptime Robot     | https://github.com/louislam/uptime-kuma      |
-| sherlock            | Social Medias | Hunt down social media accounts by username                        | https://github.com/sherlock-project/sherlock |

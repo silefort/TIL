@@ -27,6 +27,7 @@ To generate this readme:
 * [ Edit command from history before exec ](Bash/Edit-command-from-history-before-exec.md)
 * [ Scroll Through files Using fzf ](Bash/Scroll-Through-files-Using-fzf.md)
 * [ Revert Lines with tail ](Bash/Revert-Lines-with-tail.md)
+* [ Chain shell commands ](Bash/Chain-shell-commands.md)
 * [ Show declared shell functions ](Bash/Show-declared-shell-functions.md)
 * [ Redirect stderr to stdout ](Bash/Redirect-stderr-to-stdout.md)
 * [ Fx cheatsheet ](Bash/Fx-cheatsheet.md)
@@ -57,6 +58,7 @@ To generate this readme:
 * [ Checkout last checkedout branch ](Git/Checkout-last-checkedout-branch.md)
 * [ Clone a repo locally from git ](Git/Clone-a-repo-locally-from-git.md)
 * [ What does that git alias do ](Git/What-does-that-git-alias-do.md)
+* [ Sort branches by last updated ](Git/Sort-branches-by-last-updated.md)
 * [ Git Aliases ](Git/Git-Aliases.md)
 * [ Generate random commit message ](Git/Generate-random-commit-message.md)
 * [ Get Head Hash ](Git/Get-Head-Hash.md)
@@ -113,6 +115,7 @@ To generate this readme:
 * [ Play with the history command ](Unix/Play-with-the-history-command.md)
 * [ Exit ssh stuck sessions ](Unix/Exit-ssh-stuck-sessions.md)
 * [ Show OS and Hardware details ](Unix/Show-OS-and-Hardware-details.md)
+* [ Check cer certificate file ](Unix/Check-cer-certificate-file.md)
 * [ Get PIDs for processes listening on a port ](Unix/Get-PIDs-for-processes-listening-on-a-port.md)
 * [ Ssh cheatsheet ](Unix/Ssh-cheatsheet.md)
 * [ Specify the key to use in ssh ](Unix/Specify-the-key-to-use-in-ssh.md)
@@ -135,6 +138,7 @@ To generate this readme:
 * [ Custom Vim Command ](Vim/Custom-Vim-Command.md)
 * [ Open File At Line Number ](Vim/Open-File-At-Line-Number.md)
 * [ Normal mode quit without saving ](Vim/Normal-mode-quit-without-saving.md)
+* [ Open split of a specific size ](Vim/Open-split-of-a-specific-size.md)
 * [ Insert mode filename completion ](Vim/Insert-mode-filename-completion.md)
 * [ Toggle Line Numbers ](Vim/Toggle-Line-Numbers.md)
 * [ Generate a list from grep ](Vim/Generate-a-list-from-grep.md)
@@ -149,4 +153,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-106 Tips available
+110 Tips available

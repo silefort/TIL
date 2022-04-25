@@ -25,6 +25,7 @@ To generate this readme:
 * [ Convert JSON to CSV ](Bash/Convert-JSON-to-CSV.md)
 * [ Bash vi mode cheatsheet ](Bash/Bash-vi-mode-cheatsheet.md)
 * [ Edit command from history before exec ](Bash/Edit-command-from-history-before-exec.md)
+* [ Jq cheatsheet ](Bash/Jq-cheatsheet.md)
 * [ Scroll Through files Using fzf ](Bash/Scroll-Through-files-Using-fzf.md)
 * [ Revert Lines with tail ](Bash/Revert-Lines-with-tail.md)
 * [ Chain shell commands ](Bash/Chain-shell-commands.md)
@@ -57,6 +58,7 @@ To generate this readme:
 * [ List commits that change a file ](Git/List-commits-that-change-a-file.md)
 * [ Show last commit content ](Git/Show-last-commit-content.md)
 * [ Checkout last checkedout branch ](Git/Checkout-last-checkedout-branch.md)
+* [ Show most modified files ](Git/Show-most-modified-files.md)
 * [ Clone a repo locally from git ](Git/Clone-a-repo-locally-from-git.md)
 * [ What does that git alias do ](Git/What-does-that-git-alias-do.md)
 * [ Sort branches by last updated ](Git/Sort-branches-by-last-updated.md)
@@ -154,4 +156,4 @@ To generate this readme:
 * [ List Your Leader Vim Mappings ](Vim/List-Your-Leader-Vim-Mappings.md)
 
 
-111 Tips available
+113 Tips available

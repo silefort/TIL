@@ -12,3 +12,4 @@
     $ curl --http1.0 foo.com # 
     $ curl --http2 foo.com # request using h2
     $ curl foo.com --libcurl sourcecode.c && gcc sourcecode.c -lcurl -o ./myapp # Compile youre request into an application
+    $ curl -# -O https://files.example.com/large/long_video.mp4 # Display a progress bar while downloading
